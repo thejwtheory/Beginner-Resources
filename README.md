@@ -12,10 +12,17 @@ All of the websites, books, and communities in one place at your disposal. Dont 
 - [CodeAcademy](https://www.codeacademy.com) (Programming)
 - [CodeWars](https://www.codewars.com) (Competitve Programming)
 - [Cybrary](https://www.cybrary.it/) (Cyber Training)
-- [Udemy](https://www.udemy.com/) - (Paid/Free Courses)
-- [Coursera](https://www.coursera.org/) (Paid/Free Courses)
+- [Udemy](https://www.udemy.com/) - (Paid/Free Courses | Certifications)
+- [Coursera](https://www.coursera.org/) (Paid/Free Courses | Certifications)
 - [W3Schools](https://www.w3schools.com/) (Web Development)
+- [Visual Studio Code](https://code.visualstudio.com/download) (IDE)
+- [Visual Studio](https://visualstudio.microsoft.com/vs/) (IDE)
+- [archive.org](https://archive.org/) (Free PDF Books)
+- [PDF Drive](https://pdfdrive.webs.nf/) (Free PDF Books)
+- [CompTIA](https://www.comptia.org/) (Cyber Training / Certifications)
+- 
+
 ## Helpful Creators
-- Jimi.did.it
-- Network Chuck
-- Srhoe
+- [Jimi.did.it]()
+- [Network Chuck]()
+- [Srhoe]()
