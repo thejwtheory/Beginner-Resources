@@ -20,9 +20,10 @@ All of the websites, books, and communities in one place at your disposal. Dont 
 - [archive.org](https://archive.org/) (Free PDF Books)
 - [PDF Drive](https://pdfdrive.webs.nf/) (Free PDF Books)
 - [CompTIA](https://www.comptia.org/) (Cyber Training / Certifications)
-- 
+- [HackerOne](https://www.hackerone.com/for-hackers/how-to-start-hacking) (Community/Program)
+- [VulnHub](https://www.vulnhub.com/)(Pentesting/Hacking | Some Exp)
 
 ## Helpful Creators
-- [Jimi.did.it]()
-- [Network Chuck]()
-- [Srhoe]()
+- [Jimi.did.it](https://www.youtube.com/@jimididit)
+- [Network Chuck](https://www.youtube.com/@NetworkChuck)
+- [Srhoe](https://www.youtube.com/@srhoe)
