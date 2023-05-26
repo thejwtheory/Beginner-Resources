@@ -27,3 +27,6 @@ All of the websites, books, and communities in one place at your disposal. Dont 
 - [Jimi.did.it](https://www.youtube.com/@jimididit)
 - [Network Chuck](https://www.youtube.com/@NetworkChuck)
 - [Srhoe](https://www.youtube.com/@srhoe)
+- [John Hammond](https://www.youtube.com/@_JohnHammond)
+- [Jack Rhysider](https://www.youtube.com/@JackRhysider)
+- [Kitboga](https://www.youtube.com/@KitbogaShow)
