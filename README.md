@@ -31,3 +31,4 @@ All of the websites, books, and communities in one place at your disposal. Dont 
 - [Jack Rhysider](https://www.youtube.com/@JackRhysider)
 - [Kitboga](https://www.youtube.com/@KitbogaShow)
 - [0Day | Ryan](https://www.instagram.com/0day/)
+- [Giraffe Academy](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw)
