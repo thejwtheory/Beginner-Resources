@@ -28,12 +28,10 @@ All of the websites, books, and communities in one place at your disposal. Dont 
 | HackerOne | [Bug Bounty](https://www.hackerone.com/for-hackers/how-to-start-hacking) | Intermediate 
 | VulnHub | [Pentesting](https://www.vulnhub.com/) | Intermediate
 
-## Helpful Creators
-- [Jimi.did.it](https://www.youtube.com/@jimididit)
-- [Network Chuck](https://www.youtube.com/@NetworkChuck)
-- [Srhoe](https://www.youtube.com/@srhoe)
-- [John Hammond](https://www.youtube.com/@_JohnHammond)
-- [Jack Rhysider](https://www.youtube.com/@JackRhysider)
-- [Kitboga](https://www.youtube.com/@KitbogaShow)
-- [0Day | Ryan](https://www.instagram.com/0day/)
-- [Giraffe Academy](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw)
+# Helpful Tech Creators
+| Creator | Youtube | Tiktok | Instagram | Github |
+|---------|---------|--------|-----------|--------|
+|Jimi Flynn|[Jimididit](https://www.youtube.com/@jimididit)|[jimi.did.it](https://www.tiktok.com/@jimi.did.it?lang=en)|[jimi.did.it]()|[Github]() |
+|Kevin Roberts | [srhoe](https://www.youtube/srhoe) | [srhoe](https://www.tiktok.com/@srhoe) | [srhoe](https://www.instagram.com/srhoe) | [5rhoe](https://github.com/srhoe/) |
+|Charles Keith | [NetworkChuck](https://wwww.youtube.com/NetworkChuck) | [NetworkChuck](https://www.tiktok.com/@networkchuck) | [NetworkChuck](https://www.instagram.com/networkchuck/) | [theNetworkChuck](https://github.com/theNetworkChuck) |
+| Ryan Montgomery | [NA] | [0dayctf](https://www.tiktok.com/@0dayctf) | [0day](https://wwww.instagram.com/0day) | [0dayctf](https://github.com/0dayctf) |
