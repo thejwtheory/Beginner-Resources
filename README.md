@@ -4,26 +4,29 @@
 All of the websites, books, and communities in one place at your disposal. Dont know where to start in the land of Tech? Look no further we can help you out.
 
 
-## Links & Resources 🔗
+## Resources 🔗
 
-- [OwlSec](https://www.owlsec.io/join) (Community)
-- [TryHackMe](https://www.tryhackme.com/) (Pentesting/Hacking | Best From 0)
-- [HackTheBox](https://www.hackthebox.com) (Pentesting/Hacking | Some Exp)
-- [CodeAcademy](https://www.codeacademy.com) (Programming)
-- [CodeWars](https://www.codewars.com) (Competitve Programming)
-- [Cybrary](https://www.cybrary.it/) (Cyber Training)
-- [Udemy](https://www.udemy.com/) - (Paid/Free Courses | Certifications)
-- [Coursera](https://www.coursera.org/) (Paid/Free Courses | Certifications)
-- [W3Schools](https://www.w3schools.com/) (Web Development)
-- [Visual Studio Code](https://code.visualstudio.com/download) (IDE)
-- [Visual Studio](https://visualstudio.microsoft.com/vs/) (IDE)
-- [archive.org](https://archive.org/) (Free PDF Books)
-- [PDF Drive](https://pdfdrive.webs.nf/) (Free PDF Books)
-- [CompTIA](https://www.comptia.org/) (Cyber Training / Certifications)
-- [HackerOne](https://www.hackerone.com/for-hackers/how-to-start-hacking) (Community/Program)
-- [VulnHub](https://www.vulnhub.com/)(Pentesting/Hacking | Some Exp)
 
-## Helpful Creators
+
+
+| Name              | Type               | Experience   |
+| ----------------- | -------------------|------------- |
+| OwlSec | [Community](https://youtube.com) | Beginner
+| TryHackMe | [Pentesting/Hacking](https://www.tryhackme.com/) | Beginner
+| HackTheBox | [Pentesting/Hacking](https://www.hackthebox.com) |Intermediate |
+| CodeAcademy | [Programming](https://www.codeacademy.com) | Beginner
+| CodeWars | [Competitve Programming](https://www.codewars.com) | Intermediate |
+| Cybrary| [Cyber Training](https://www.cybrary.it/) | Beginner |
+| Udemy | [Certifications](https://www.cybrary.it/) | Intermediate |
+| Coursera | [Certifications](https://www.coursera.org/) | Intermediate |
+| W3Schools | [Web Development](https://www.w3schools.com/) | Beginner |
+| Visual Studio Code | [IDE](https://code.visualstudio.com/download) | Beginner |
+| Visual Studio | [IDE](https://visualstudio.microsoft.com/vs/) | Intermediate |
+| archive.org | [Library](https://archive.org/) | Beginner |
+| PDF Drive | [Library](https://pdfdrive.webs.nf/) | Beginner |
+| CompTIA | [Certifications](https://www.comptia.org/) | Advanced |
+| HackerOne | [Bug Bounty](https://www.hackerone.com/for-hackers/how-to-start-hacking) | Intermediate 
+| VulnHub | [Pentesting](https://www.vulnhub.com/) | Intermediate
 - [Jimi.did.it](https://www.youtube.com/@jimididit)
 - [Network Chuck](https://www.youtube.com/@NetworkChuck)
 - [Srhoe](https://www.youtube.com/@srhoe)
