@@ -29,9 +29,14 @@ All of the websites, books, and communities in one place at your disposal. Dont 
 | VulnHub | [Pentesting](https://www.vulnhub.com/) | Intermediate
 
 # Helpful Tech Creators
-| Creator | Youtube | Tiktok | Instagram | Github |
-|---------|---------|--------|-----------|--------|
+  
+| Creator | Youtube | Tiktok | Instagram | Github | Twitter |
+|---------|---------|--------|-----------|--------|---------|
 |Jimi Flynn|[Jimididit](https://www.youtube.com/@jimididit)|[jimi.did.it](https://www.tiktok.com/@jimi.did.it?lang=en)|[jimi.did.it]()|[Github]() |
 |Kevin Roberts | [srhoe](https://www.youtube/srhoe) | [srhoe](https://www.tiktok.com/@srhoe) | [srhoe](https://www.instagram.com/srhoe) | [5rhoe](https://github.com/srhoe/) |
 |Charles Keith | [NetworkChuck](https://wwww.youtube.com/NetworkChuck) | [NetworkChuck](https://www.tiktok.com/@networkchuck) | [NetworkChuck](https://www.instagram.com/networkchuck/) | [theNetworkChuck](https://github.com/theNetworkChuck) |
 | Ryan Montgomery | [NA] | [0dayctf](https://www.tiktok.com/@0dayctf) | [0day](https://wwww.instagram.com/0day) | [0dayctf](https://github.com/0dayctf) |
+| John Hammond | [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw) | [Johnhammond010](https://www.tiktok.com/@johnhammond010) | [_johnhammond](https://www.instagram.com/_johnhammond) | [JohnHammond](https://github.com/JohnHammond) |
+| Ben Sadeghipour | [NahamSec](https://www.youtube.com/c/nahamsec) | [NahamSec](https://www.tiktok.com/@nahamsec) | [NahamSec](https://www.instagram.com/nahamsec) | [NahamSec](https://github.com/nahamsec) |
+| Giraffe Academy | [Giraffe Academy](https://www.youtube.com/@GiraffeAcademy) | [NA] | [highgiraffeacademy](https://www.instagram.com/highgiraffeacademy)| [Giraffe Academy](https://github.com/giraffeacademy) |
+| David Bombal | [David Bombal](https://www.youtube.com/@davidbombal) | [DavidBombal](https://www.tiktok.com/@davidbombal)| [David Bombal](https://www.instagram.com/davidbombal/) | [David Bombal](https://github.com/davidbombal) |
