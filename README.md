@@ -7,8 +7,6 @@ All of the websites, books, and communities in one place at your disposal. Dont 
 ## Resources 🔗
 
 
-
-
 | Name              | Type               | Experience   |
 | ----------------- | -------------------|------------- |
 | OwlSec | [Community](https://owlsec.io) | Beginner
