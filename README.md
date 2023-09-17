@@ -30,8 +30,6 @@ All of the websites, books, and communities in one place at your disposal. Dont 
   
 | Creator | Youtube | Tiktok | Instagram | Github | Twitter |
 |---------|---------|--------|-----------|--------|---------|
-|Jimi Flynn|[Jimididit](https://www.youtube.com/@jimididit)|[jimi.did.it](https://www.tiktok.com/@jimi.did.it?lang=en)|[jimi.did.it]()|[Github]() |
-|Kevin Roberts | [srhoe](https://www.youtube/srhoe) | [srhoe](https://www.tiktok.com/@srhoe) | [srhoe](https://www.instagram.com/srhoe) | [5rhoe](https://github.com/srhoe/) |
 |Charles Keith | [NetworkChuck](https://wwww.youtube.com/NetworkChuck) | [NetworkChuck](https://www.tiktok.com/@networkchuck) | [NetworkChuck](https://www.instagram.com/networkchuck/) | [theNetworkChuck](https://github.com/theNetworkChuck) |
 | Ryan Montgomery | [NA] | [0dayctf](https://www.tiktok.com/@0dayctf) | [0day](https://wwww.instagram.com/0day) | [0dayctf](https://github.com/0dayctf) |
 | John Hammond | [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw) | [Johnhammond010](https://www.tiktok.com/@johnhammond010) | [_johnhammond](https://www.instagram.com/_johnhammond) | [JohnHammond](https://github.com/JohnHammond) |
