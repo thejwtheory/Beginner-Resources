@@ -9,7 +9,6 @@ All of the websites, books, and communities in one place at your disposal. Dont 
 
 | Name              | Type               | Experience   |
 | ----------------- | -------------------|------------- |
-| OwlSec | [Community](https://owlsec.io) | Beginner
 | TryHackMe | [Pentesting/Hacking](https://www.tryhackme.com/) | Beginner
 | HackTheBox | [Pentesting/Hacking](https://www.hackthebox.com) |Intermediate |
 | CodeAcademy | [Programming](https://www.codeacademy.com) | Beginner
