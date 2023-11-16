@@ -42,6 +42,7 @@ All of the websites, books, and communities in one place at your disposal. Dont 
 |------|------|---------|
 | Community | [Beehive Cyber Security](https://discord.gg/beehive) | [BeeHive](https://www.beehive.systems/) |
 | Community/Tool | [Malcore Comms](https://discord.gg/E6y2gvPZ5m) | [Malcore.io](https://malcore.io/) |
+| Community | [r/Malware](https://www.reddit.com/r/Malware/) | |
 
 # Malware Research Resources
 | Name | Website |
@@ -55,4 +56,5 @@ All of the websites, books, and communities in one place at your disposal. Dont 
 | Maldev | [Maldev](https://maldevacademy.com/) |
 | OpenSecurity | [OpenSecurity](https://opensecuritytraining.info/Learning%20Paths.html) |
 | URLhaus | [URLhaus](https://urlhaus.abuse.ch/browse/) |
+| VirusSign | [VirusSign](https://www.virussign.com/) |
 
