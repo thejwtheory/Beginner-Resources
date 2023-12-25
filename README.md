@@ -47,6 +47,7 @@ All of the websites, books, and communities in one place at your disposal. Dont 
 # Malware Research Resources
 | Name | Website |
 |------|---------|
+| Malcore | [Malcore](https://wwww.malcore.io/) |
 | Malware Bazaar | [MB](https://bazaar.abuse.ch/) |
 | VirusTotal | [VT](https://www.virustotal.com/gui/home/upload) |
 | r/Malware | [r/Malware](https://www.reddit.com/r/Malware/) |
